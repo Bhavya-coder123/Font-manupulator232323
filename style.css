@@ -1,0 +1,37 @@
+
+#boom{
+    position:fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(128, 50, 135);
+  text-align: center;
+  line-height: 3;
+}
+canvas{
+border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(186, 58, 58);
+  margin-top: 160px;
+}
+#bang2{
+    font-family:cursive;
+    font-weight:bolder;
+    font-size: 40px;
+    color:gray;
+}
+#GOLD{
+    font-size: 20px;
+    color: chartreuse;
+    font-weight: 900;
+    margin-top: 12px;
+    font-family: cursive;
+    border-radius: 6px;
+}
+#ZOOP{
+    font-size: 17px;
+    font-family: cursive;
+    border-radius: 5px;
+    margin-top:9px;
+    margin-bottom:9px;
+}
